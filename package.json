@@ -1,0 +1,28 @@
+{
+  "name": "landing",
+  "version": "1.0.0",
+  "description": "This is langing Page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rostyslav-diakiv/landing.git"
+  },
+  "author": "Rostyslav Diakiv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rostyslav-diakiv/landing/issues"
+  },
+  "homepage": "https://github.com/rostyslav-diakiv/landing#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp.spritesmith": "^6.3.0",
+    "rimraf": "^2.6.1"
+  }
+}
